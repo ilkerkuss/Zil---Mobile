@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://admin:admin@localhost:27017/?authSource=db_Keeper&readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+  "jwtSecret": "secret"
+}
